@@ -4,8 +4,10 @@ This is the repository for PCB schematics and 3D printed file used in the wearab
 
 # materials
 - silicone (Smooth-On Dragonskin FX Pro)
+- silicone adhesive (Smooth-On SilPoxy)
 - magnetic powder (NdFeB)
 - ferrous powder (carbonyl iron)
+- copper enameled wire (28 AWG)
 
 # citing
 
