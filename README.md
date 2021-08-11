@@ -1,6 +1,6 @@
 # MagnetIO: Passive yet Interactive Soft Haptic Patches Anywhere
 
-This is the repository for PCB schematics and 3D printed file used in the wearable device in the "MagnetIO: Passive yet Interactive Soft Haptic Patches Anywhere" paper (ACM CHI2021).
+This is the repository for PCB schematics and 3D printed molds used in the "MagnetIO: Passive yet Interactive Soft Haptic Patches Anywhere" paper (ACM CHI2021).
 
 # materials
 - silicone (Smooth-On Dragonskin FX Pro)
