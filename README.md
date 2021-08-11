@@ -2,8 +2,10 @@
 
 This is the repository for PCB schematics and 3D printed file used in the wearable device in the "MagnetIO: Passive yet Interactive Soft Haptic Patches Anywhere" paper (ACM CHI2021).
 
-# hardware
-
+# materials
+- silicone (Smooth-On Dragonskin FX Pro)
+- magnetic powder (NdFeB)
+- ferrous powder (carbonyl iron)
 
 # citing
 
